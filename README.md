@@ -1,2 +1,2 @@
 # google_homepage
-https://www.theodinproject.com
+http://www.theodinproject.com
